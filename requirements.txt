@@ -1,0 +1,5 @@
+django
+lxml
+suds
+spyne[django]
+six
